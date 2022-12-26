@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9bf21f2-c953-4699-a706-26da5e53d3e7" name="Changes" comment="Добавил class SalesManager">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b9bf21f2-c953-4699-a706-26da5e53d3e7" name="Changes" comment="Добавил long">
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SalesManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SalesManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="longer" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,7 +72,7 @@
       <updated>1671625752031</updated>
       <workItem from="1671625754731" duration="11856000" />
       <workItem from="1672056176135" duration="2433000" />
-      <workItem from="1672067358160" duration="698000" />
+      <workItem from="1672067358160" duration="1044000" />
     </task>
     <task id="LOCAL-00001" summary="Добавил class SalesManager">
       <created>1671629477791</created>
@@ -90,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671643512549</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Добавил long">
+      <created>1672068141018</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672068141018</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +114,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Добавил class SalesManager" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил class SalesManager" />
+    <MESSAGE value="Добавил long" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил long" />
   </component>
 </project>
